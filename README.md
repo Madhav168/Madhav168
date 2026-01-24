@@ -20,8 +20,7 @@ I love turning ideas into reality using **modern web technologies** while focusi
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)   
 
 ---
 
@@ -38,12 +37,6 @@ I love turning ideas into reality using **modern web technologies** while focusi
 
 - 🏆 **ProServX – Corporate Service Provider Platform**  
    *(Next.js, Tailwind CSS, Node.js, MongoDB, Clerk)*  
-
-- 📊 **Market Sentiment Visualizer**  
-   *Python, TextBlob, Matplotlib, NewsAPI – analyzing stock market news trends*  
-
-- 🐾 **Pet Website (DBMS Project)**  
-   *XAMPP + MySQL – academic project showcasing database-driven web design*  
 
 - 🎮 **Esports Website**  
    *Developed for college esports club with responsive design & modern UI/UX*  
