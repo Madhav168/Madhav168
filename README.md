@@ -1,73 +1,115 @@
-<!-- Typing Effect Banner -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F75C7E&width=600&lines=Hi%2C+I'm+Madhav+👋;Full-Stack+Developer+💻;Open-Source+Contributor+🌍;Tech+Enthusiast+🚀;Always+Learning+%26+Building+📚)](https://git.io/typing-svg)
+# Sai Madhav
 
----
+Founder and software engineer building products around assessment security, artificial intelligence, and developer infrastructure.
 
-# 👋 About Me  
-I’m a **Full-Stack Developer** passionate about building **scalable, user-friendly, and impactful applications**.  
-I love turning ideas into reality using **modern web technologies** while focusing on **clean design, performance, and scalability**.  
+I am currently building **Zeryth Browser**, a prevention first assessment security platform for online examinations, interviews, recruitment assessments, and certifications.
 
----
+My focus is on building systems that make secure assessments practical at scale, with an emphasis on prevention rather than relying only on detection.
 
-## 💻 Tech Stack  
+## Zeryth Browser
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)   
+Zeryth is built to protect the complete assessment environment across desktop and mobile.
 
----
+The platform currently focuses on:
 
-## 🚀 What I Do  
-✨ Build **responsive and interactive UIs** with React & Next.js  
-✨ Develop **secure REST APIs** and backend services with Node.js & Express.js  
-✨ Work with **SQL & NoSQL databases** for scalable solutions  
-✨ Integrate **authentication, payments, and third-party APIs**  
-✨ Deploy apps to **Vercel, Netlify, and Render**  
+• Secure browser environments  
+• OS level lockdown and anti bypass mechanisms  
+• Desktop and mobile integrity  
+• Face and eye tracking  
+• Phone detection  
+• Attention analytics  
+• Real time violation monitoring  
+• Assessment audit trails and reporting  
+• Secure code execution and judging  
+• AI based assessment monitoring  
 
----
+Website: https://zerythbrowser.com
 
-## 📌 Featured Projects  
+## What I Work On
 
-- 🏆 **ProServX – Corporate Service Provider Platform**  
-   *(Next.js, Tailwind CSS, Node.js, MongoDB, Clerk)*  
+My current work spans software engineering, product development, cybersecurity, artificial intelligence, and startup building.
 
-- 🎮 **Esports Website**  
-   *Developed for college esports club with responsive design & modern UI/UX*  
+I particularly enjoy working on problems where software needs to operate reliably under real world constraints, especially security sensitive and infrastructure heavy systems.
 
----
+Some of the areas I work with include:
 
-## 🌱 Currently Exploring  
-- **Cloud computing & serverless deployment** (AWS, Firebase, Vercel)  
-- **AI/ML-powered applications** integrated into web projects  
-- **System design principles** for scalable backend development  
+• Application and browser security  
+• Artificial intelligence and local AI systems  
+• Cloud infrastructure  
+• Distributed systems  
+• Developer tools  
+• Secure execution environments  
+• Product engineering  
+• Startup and venture building  
 
----
+## Technology
 
-## 📊 GitHub Stats  
+**Languages**
 
-![Madhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Madhav168&show_icons=true&theme=radical)  
+C, Python, Java, JavaScript, Rust
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhav168&layout=compact&theme=radical)  
+**Frontend and Application Development**
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Madhav168&theme=radical)  
+HTML, CSS, JavaScript, React, Tailwind CSS, Tauri
 
----
+**Backend and Infrastructure**
 
-## 🎯 Goals  
-- Contribute to **open-source projects** that make a difference  
-- Master **full-stack architectures** and cloud-native development  
-- Build products that are **secure, scalable, and user-focused**  
+Node.js, MongoDB, Redis, Docker, Kubernetes, Cloudflare, REST, gRPC
 
----
+**Tools**
 
-## 📫 Let’s Connect  
+Git, GitHub, Linux, Google Cloud, Prometheus, Grafana, Loki
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](http://pampanasaimadhav.vercel.app/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pampanasaimadhav/)  
+## Selected Work
+
+### Zeryth Browser
+
+A secure assessment platform designed for universities, assessment providers, recruiters, certification bodies, enterprises, and government organisations.
+
+The system combines browser security, desktop integrity, mobile integrity, behavioural monitoring, and assessment reporting into a single platform.
+
+### Secure Code Execution and Judging Infrastructure
+
+I am also working on infrastructure for running and evaluating programming submissions securely.
+
+The architecture includes sandboxed execution, Docker isolation, Kubernetes support, Redis based job processing, MongoDB, object storage, internal gRPC services, REST APIs, and observability through Prometheus, Grafana, and Loki.
+
+## Education
+
+**Post Graduate Diploma in Management, Innovation, Entrepreneurship and Venture Development**
+
+Entrepreneurship Development Institute of India
+
+**Bachelor of Technology in Computer Science and Engineering**
+
+GITAM University
+
+## Currently Exploring
+
+Artificial intelligence and local language models
+
+Cybersecurity and secure application design
+
+Distributed and cloud native systems
+
+Systems programming
+
+Assessment technology
+
+Product development
+
+Startup strategy and venture building
+
+## Connect
+
+Website: https://zerythbrowser.com
+
+Email: contact@zerythbrowser.com
+
+LinkedIn: https://www.linkedin.com/
+
+I am always interested in meeting people working on interesting problems in technology, artificial intelligence, cybersecurity, and startups.
+
+<p align="center">
+Building technology that solves real problems.
+</p>
