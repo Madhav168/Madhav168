@@ -1,44 +1,30 @@
 # Sai Madhav
 
-Founder and software engineer building products around assessment security, artificial intelligence, and developer infrastructure.
+Founder and software engineer building products around cybersecurity, artificial intelligence, and software infrastructure.
 
-I am currently building **Zeryth Browser**, a prevention first assessment security platform for online examinations, interviews, recruitment assessments, and certifications.
+I am currently building **Zeryth Browser**, focused on solving two major problems in online assessments:
 
-My focus is on building systems that make secure assessments practical at scale, with an emphasis on prevention rather than relying only on detection.
+1. Cheating in online exams and interviews
+2. The cost and time complexity involved in creating secure, proctored assessments
 
-## Zeryth Browser
+Zeryth is being built around an innovative architecture designed to provide a **bypass resistant assessment environment with complete transparency**, while keeping the experience simple for both administrators and candidates.
 
-Zeryth is built to protect the complete assessment environment across desktop and mobile.
-
-The platform currently focuses on:
-
-• Secure browser environments  
-• OS level lockdown and anti bypass mechanisms  
-• Desktop and mobile integrity  
-• Face and eye tracking  
-• Phone detection  
-• Attention analytics  
-• Real time violation monitoring  
-• Assessment audit trails and reporting  
-• Secure code execution and judging  
-• AI based assessment monitoring  
-
-Website: https://zerythbrowser.com
+The platform also focuses on making exam creation flexible and user friendly, with pricing designed to make secure assessments accessible across different use cases.
 
 ## What I Work On
 
-My current work spans software engineering, product development, cybersecurity, artificial intelligence, and startup building.
+My work spans software engineering, product development, cybersecurity, artificial intelligence, infrastructure, and startup building.
 
-I particularly enjoy working on problems where software needs to operate reliably under real world constraints, especially security sensitive and infrastructure heavy systems.
+I enjoy working on difficult technical problems where software needs to be secure, reliable, scalable, and practical in real world environments.
 
 Some of the areas I work with include:
 
-• Application and browser security  
+• Cybersecurity and application security  
 • Artificial intelligence and local AI systems  
 • Cloud infrastructure  
 • Distributed systems  
 • Developer tools  
-• Secure execution environments  
+• Secure software systems  
 • Product engineering  
 • Startup and venture building  
 
@@ -64,15 +50,17 @@ Git, GitHub, Linux, Google Cloud, Prometheus, Grafana, Loki
 
 ### Zeryth Browser
 
-A secure assessment platform designed for universities, assessment providers, recruiters, certification bodies, enterprises, and government organisations.
+A security focused assessment platform addressing the challenges of cheating, assessment security, and the cost and complexity of conducting proctored exams and interviews.
 
-The system combines browser security, desktop integrity, mobile integrity, behavioural monitoring, and assessment reporting into a single platform.
+The goal is to make secure assessments easier to create, easier to manage, and more practical to deploy at scale.
+
+Website: https://zerythbrowser.com
 
 ### Secure Code Execution and Judging Infrastructure
 
 I am also working on infrastructure for running and evaluating programming submissions securely.
 
-The architecture includes sandboxed execution, Docker isolation, Kubernetes support, Redis based job processing, MongoDB, object storage, internal gRPC services, REST APIs, and observability through Prometheus, Grafana, and Loki.
+The project explores sandboxed execution, container isolation, scalable job processing, cloud infrastructure, APIs, and observability.
 
 ## Education
 
@@ -108,7 +96,7 @@ LinkedIn: https://www.linkedin.com/in/pampanasaimadhav/
 
 Email: pampanasaimadhav@gmail.com
 
-I am always interested in connecting with people working on technology, artificial intelligence, cybersecurity, software engineering, and startups.
+I am interested in connecting with people working on technology, artificial intelligence, cybersecurity, software engineering, and startups.
 
 <p align="center">
 Building technology that solves real problems.
