@@ -102,13 +102,13 @@ Startup strategy and venture building
 
 ## Connect
 
-Website: https://zerythbrowser.com
+Website: https://pampanasaimadhav.vercel.app/
 
-Email: contact@zerythbrowser.com
+LinkedIn: https://www.linkedin.com/in/pampanasaimadhav/
 
-LinkedIn: https://www.linkedin.com/
+Email: pampanasaimadhav@gmail.com
 
-I am always interested in meeting people working on interesting problems in technology, artificial intelligence, cybersecurity, and startups.
+I am always interested in connecting with people working on technology, artificial intelligence, cybersecurity, software engineering, and startups.
 
 <p align="center">
 Building technology that solves real problems.
